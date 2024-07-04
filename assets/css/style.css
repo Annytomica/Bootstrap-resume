@@ -367,3 +367,5 @@ button[type='submit'] {
         max-width: 50%;
     }
 }
+
+/* Adding an unecessary note to prevent deletion of workspace from gitpod */
