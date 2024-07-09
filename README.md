@@ -2,4 +2,4 @@
 
 Welcome,
 
-This is a Code Institute Bootstrap walk-through project completed as part of the Diploma in Full Stack Development.
+This is a Code Institute Bootstrap and JQuery walk-through project completed as part of the Diploma in Full Stack Development.
