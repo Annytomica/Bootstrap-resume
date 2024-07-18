@@ -59,8 +59,7 @@
     background-color: #e74c3c;
 }
 
-
-
+div#map {min-height: 360px;}
 
 body {
     font-family: Roboto, sans-serif;
